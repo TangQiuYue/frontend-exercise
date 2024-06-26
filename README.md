@@ -1,14 +1,13 @@
-# Tic tac toe - Recrutement Frontend
+# Tic Tac Toe - Frontend Recruitment
 
-Objective: Enhance and refactor the Tic Tac Toe game with a focus on production-readiness. Candidates are invited to implement features and best practices suitable for a robust, deployable application.
-Feel free to refactor as you want and also improve ui efficiency and look and feel.
+Objective: Enhance and refactor the Tic Tac Toe game with a focus on production-readiness. Candidates are invited to implement features and best practices suitable for a robust, deployable application. Feel free to refactor as you wish and also improve the UI's efficiency and aesthetic.
 
-## To do:
+## To Do:
 
-- [ ] Add quick documentation to be enable to start the project localy
-- [ ] Implement logic to be able to get back in previous state of the game (on click on history item)
-- [ ] Create a Jira ticket content to plan implementation of dual player setup (with short but efficient tech specification)
+- [ ] Add quick documentation to enable starting the project locally.
+- [ ] Implement logic to revert to a previous state of the game when clicking on a history item.
+- [ ] Draft a specification and implementation plan for the dual drive installation (as if it were a Jira ticket), including technology choices and necessary points of attention.
 
 ## Documentation
 
-WIP
+Work In Progress
