@@ -6,7 +6,7 @@ Objective: Enhance and refactor the Tic Tac Toe game with a focus on production-
 
 - [ ] Add quick documentation to enable starting the project locally.
 - [ ] Implement logic to revert to a previous state of the game when clicking on a history item.
-- [ ] Draft a specification and implementation plan for the dual drive installation (as if it were a Jira ticket), including technology choices and necessary points of attention.
+- [ ] Draft a specification and implementation plan for dual-browser game (as if it were a Jira ticket), including technology choices and necessary points of attention.
 
 ## Documentation
 
